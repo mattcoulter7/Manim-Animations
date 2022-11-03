@@ -1,6 +1,4 @@
 from manim import *
-import math
-import numpy as np
 
 class ManualDataProcessing(MovingCameraScene):
     def construct(self):

@@ -1,10 +1,6 @@
-from random import randrange
 from manim import *
 import math
-import numpy as np
-import csv
 import pandas as pd
-import geopy
 
 from sklearn.preprocessing import MinMaxScaler
 

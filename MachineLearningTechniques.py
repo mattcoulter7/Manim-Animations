@@ -1,4 +1,4 @@
-from typing import OrderedDict, Tuple
+from typing import Tuple
 from manim import *
 
 class GraphStretch(Animation):

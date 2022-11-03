@@ -1,9 +1,6 @@
-from typing import OrderedDict, Tuple
+from typing import Tuple
 from manim import *
-from random import randrange
-import math
 import numpy as np
-import csv
 import pandas as pd
 
 from sklearn.preprocessing import MinMaxScaler

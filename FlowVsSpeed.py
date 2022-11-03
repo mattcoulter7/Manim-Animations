@@ -1,7 +1,5 @@
 from manim import *
 import math
-import numpy as np
-from pyparsing import White
 
 config.background_color = BLACK
 

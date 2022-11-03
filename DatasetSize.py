@@ -1,6 +1,4 @@
 from manim import *
-import math
-import numpy as np
 
 config.background_color = BLACK
 
