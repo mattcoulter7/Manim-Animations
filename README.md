@@ -14,7 +14,6 @@ Simply run `python FILE_NAME.py` and the animation will be generated under at `\
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/53892067/204211678-30086767-c7a9-4624-a16a-d7bb3535fb39.png)
-![image](https://user-images.githubusercontent.com/53892067/204211730-c1d3dad5-e937-4dc7-b908-c5a2d2938ec0.png)
 ![image](https://user-images.githubusercontent.com/53892067/204211772-035bd8e8-35f7-4878-aa10-81e3f6f28070.png)
 ![image](https://user-images.githubusercontent.com/53892067/204211829-5d32b4ba-f6ac-4c18-ba9c-0a60ede1d2e0.png)
 ![image](https://user-images.githubusercontent.com/53892067/204211893-78880bc6-130f-482d-9d43-81e234ddb223.png)
