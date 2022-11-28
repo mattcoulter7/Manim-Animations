@@ -21,3 +21,4 @@ Simply run `python FILE_NAME.py` and the animation will be generated under at `\
 ![image](https://user-images.githubusercontent.com/53892067/204212048-ef7193da-b797-428c-9a80-e64d05994d3d.png)
 ![image](https://user-images.githubusercontent.com/53892067/204212075-98f7812f-306c-4557-abba-e5b7ca3ce1d3.png)
 ![image](https://user-images.githubusercontent.com/53892067/204212112-0342c9f6-acc3-43bb-ba3a-f8d27012b17e.png)
+![image](https://user-images.githubusercontent.com/53892067/204212308-5ef7db97-757d-4f0e-8e74-541238722f0b.png)
